@@ -1,5 +1,5 @@
 import psutil
-from telegram import Update, Bot
+from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Токен бота
